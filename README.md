@@ -8,4 +8,4 @@
 - ISG (next build) [1000 posts]: 3.10s.
 ```
 
-## Parte que usa ISG ()
+## Parte que usa ISG (Incremental Static Generation)
